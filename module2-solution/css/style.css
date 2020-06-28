@@ -41,7 +41,7 @@ section {
 	overflow: auto;
 }
 
-#burger {
+#chicken {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -55,7 +55,7 @@ section {
 	background-color: #FFFF00;
 }
 
-#pizza {
+#beef {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -69,7 +69,7 @@ section {
 	background-color: #FF1439;
 }
 
-#pasta {
+#sushi {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
