@@ -19,7 +19,7 @@ a:link {
 }
 
 #header-nav button {
-    margin-top: 22px;
+    margin-top: 40px;
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
@@ -31,8 +31,8 @@ a:link {
 }
 
 .navbar-brand, .navbar-nav li a {
-    line-height: 76px;
-    height: 76px;
+    line-height: 80px;
+    height: 80px;
     padding-top: 0;
 }
 
